@@ -1,0 +1,7 @@
+#basic dependabot file to solve the alert
+
+version: 1
+
+updates:
+  - package-ecosystem: "npm"
+  directory: "/"
